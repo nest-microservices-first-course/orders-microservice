@@ -15,6 +15,7 @@ steps:
     ]
 options:
   logging: CLOUD_LOGGING_ONLY
+  
 availableSecrets:
   secretManager:
   - versionName: projects/31944738735/secrets/ORDERS_DB_URL/versions/1
